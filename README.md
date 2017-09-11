@@ -14,3 +14,5 @@ zig_zag_conversion.py
 reverse_integer.py
 
 string_to_integer.py
+
+palindrome_numbei.py
