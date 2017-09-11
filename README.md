@@ -11,4 +11,6 @@ two_sum.py
 
 zig_zag_conversion.py
 
-dd reverse_integer.py
+reverse_integer.py
+
+string_to_integer.py
